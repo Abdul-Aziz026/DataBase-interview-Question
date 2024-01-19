@@ -52,4 +52,5 @@ Denormalization Faster query performance, simpler queries.
 4. <ins>**Disadvantages:**</ins>	Normalization May lead to more tables, complex queries.	   
 Denormalization Increases data redundancy, maintenance complexity.
 
-
+### what is self join?
+A self join in SQL is a specific type of join where a table is joined with itself.
