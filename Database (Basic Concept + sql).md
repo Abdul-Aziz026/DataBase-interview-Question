@@ -6,9 +6,14 @@ DBMS stands for Database Management System. It is software that facilitates the 
 ### Relational Database?
 Relational database: A relational database is the most common type of database. It organizes data into tables, each consisting of rows and columns. Primary and foreign keys define the relationships between tables.
 
+### what is sql?
+Structured Query Language (SQL) is a programming language used to manage and manipulate data in a relational database. SQL allows you to perform a wide range of operations, including querying, inserting, updating, and deleting data.
+
 ### Difference between sql and mysql
 ![image](https://github.com/Abdul-Aziz026/DataBase-interview-Question/assets/57495952/b7f51dda-60ec-40f1-8d97-5e636cc8aac0)
 
+### what is data mining?
+Data mining is the process of discovering patterns and insights from large datasets. It is often used in business and scientific research to identify trends and make predictions.
 
 
 ### difference between int and bigint in sql?
