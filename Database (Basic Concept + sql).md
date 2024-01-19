@@ -1,10 +1,20 @@
 # DataBase Basics
 
+### What is a Database?
+Answer: A database is a structured collection of data organized in a way that a computer program can quickly select and retrieve specific pieces of data.
+
+
 ### What is dbms?
-DBMS stands for Database Management System. It is software that facilitates the creation, organization, retrieval, and management of data in a database. A database is a structured collection of data that is stored and accessed electronically. DBMS provides an interface for interacting with the database, allowing users to input, retrieve, update, and manage data efficiently.
+DBMS stands for Database Management System. It is software that enables users to interact with databases, providing functionalities for data storage, retrieval, update, and management.
 
 ### Relational Database?
 Relational database: A relational database is the most common type of database. It organizes data into tables, each consisting of rows and columns. Primary and foreign keys define the relationships between tables.
+
+### Explain the difference between a DBMS and a RDBMS.
+Answer: A DBMS (Database Management System) manages data in a general way, while an RDBMS (Relational Database Management System) specifically manages data using a relational model, involving tables with rows and columns, and enforcing relationships between tables.
+
+### What is denormalization?
+Answer: Denormalization is the process of introducing redundancy into a database by combining tables or adding redundant data. It is done to improve query performance by reducing the need for complex joins.
 
 ### what is sql?
 Structured Query Language (SQL) is a programming language used to manage and manipulate data in a relational database. SQL allows you to perform a wide range of operations, including querying, inserting, updating, and deleting data.
@@ -14,6 +24,15 @@ Structured Query Language (SQL) is a programming language used to manage and man
 
 ### what is data mining?
 Data mining is the process of discovering patterns and insights from large datasets. It is often used in business and scientific research to identify trends and make predictions.
+
+### What is a primary key?
+Answer: A primary key is a unique identifier for a record in a table. It must be unique for each record, and it cannot contain null values. Primary keys are used to establish relationships between tables.
+
+### What is a foreign key?
+Answer: A foreign key is a column or a set of columns in a table that refers to the primary key of another table. It establishes a link between the two tables, enforcing referential integrity.
+
+### Explain the difference between INNER JOIN and LEFT JOIN.
+Answer: INNER JOIN returns only the matching rows from both tables, while LEFT JOIN returns all the rows from the left table and the matching rows from the right table. If there is no match, the result will contain NULL values for columns from the right table.
 
 
 ### difference between int and bigint in sql?
