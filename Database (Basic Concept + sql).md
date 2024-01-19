@@ -27,8 +27,8 @@ Denormalization Improve query performance.
 <ins>**Process:**</ins>	Normalization Organize data into smaller, related tables.	  
 Denormalization Introduce some redundancy to reduce joins.   
 <ins>**Advantages:**</ins>	Normalization Minimize data redundancy, ensure consistency. 	 
-Denormalization Faster query performance, simpler queries.   
-<ins>**Disadvantages:**</ins>	Normalization May lead to more tables, complex queries.	  
+Denormalization Faster query performance, simpler queries.    
+<ins>**Disadvantages:**</ins>	Normalization May lead to more tables, complex queries.	   
 Denormalization Increases data redundancy, maintenance complexity.
 
 
