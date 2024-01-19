@@ -1,4 +1,11 @@
 # DataBase Basics
+
+### What is dbms?
+DBMS stands for Database Management System. It is software that facilitates the creation, organization, retrieval, and management of data in a database. A database is a structured collection of data that is stored and accessed electronically. DBMS provides an interface for interacting with the database, allowing users to input, retrieve, update, and manage data efficiently.
+
+### Relational Database?
+Relational database: A relational database is the most common type of database. It organizes data into tables, each consisting of rows and columns. Primary and foreign keys define the relationships between tables.
+
 ### Difference between sql and mysql
 ![image](https://github.com/Abdul-Aziz026/DataBase-interview-Question/assets/57495952/b7f51dda-60ec-40f1-8d97-5e636cc8aac0)
 
