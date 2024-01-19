@@ -12,8 +12,8 @@ Relational database: A relational database is the most common type of database. 
 
 ### Explain the difference between a DBMS and a RDBMS.
 Answer: A DBMS (Database Management System) manages data in a general way, while an RDBMS (Relational Database Management System) specifically manages data using a relational model, involving tables with rows and columns, and enforcing relationships between tables.    
-**DBMS Supports data storage in various formats.  RDBMS Organizes data in a tabular format with rows and columns.**    
-**DBMS Enforces relationships between tables using primary and foreign keys.   RDBMS May not enforce relationships between tables.**
+i. **DBMS Supports data storage in various formats.  RDBMS Organizes data in a tabular format with rows and columns.**    
+i. **DBMS Enforces relationships between tables using primary and foreign keys.   RDBMS May not enforce relationships between tables.**
 
 ### What is denormalization?
 Answer: Denormalization is the process of introducing redundancy into a database by combining tables or adding redundant data. It is done to improve query performance by reducing the need for complex joins.
