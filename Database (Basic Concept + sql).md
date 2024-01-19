@@ -22,13 +22,13 @@ Data mining is the process of discovering patterns and insights from large datas
 
 ### What is normalization and denormalization?
 Normalization      V/S       	Denormalization   
-<ins>**Goal:**</ins>	Normalization Reduce redundancy and dependency.	  
+1. <ins>**Goal:**</ins>	Normalization Reduce redundancy and dependency.	  
 Denormalization Improve query performance.  
-<ins>**Process:**</ins>	Normalization Organize data into smaller, related tables.	  
+2. <ins>**Process:**</ins>	Normalization Organize data into smaller, related tables.	  
 Denormalization Introduce some redundancy to reduce joins.   
-<ins>**Advantages:**</ins>	Normalization Minimize data redundancy, ensure consistency.   
+3. <ins>**Advantages:**</ins>	Normalization Minimize data redundancy, ensure consistency.   
 Denormalization Faster query performance, simpler queries.    
-<ins>**Disadvantages:**</ins>	Normalization May lead to more tables, complex queries.	   
+4. <ins>**Disadvantages:**</ins>	Normalization May lead to more tables, complex queries.	   
 Denormalization Increases data redundancy, maintenance complexity.
 
 
