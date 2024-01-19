@@ -1,6 +1,8 @@
 # DataBase Basics
 ### Difference between sql and mysql
 ![image](https://github.com/Abdul-Aziz026/DataBase-interview-Question/assets/57495952/b7f51dda-60ec-40f1-8d97-5e636cc8aac0)
+![image](https://github.com/Abdul-Aziz026/DataBase-interview-Question/assets/57495952/be83d399-0f4b-42a7-9f4b-b45de7af1a9d)
+
 
 
 ### difference between int and bigint in sql?
