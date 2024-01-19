@@ -21,7 +21,7 @@ Data mining is the process of discovering patterns and insights from large datas
 <ins>**BIGINT:**</ins> its use 8 bytes (64 bits) of storage.Bigint is like c++ long long it ranges from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
 
 ### What is normalization and denormalization?
-Normalization	Denormalization   
+Normalization      V/S       	Denormalization   
 <ins>**Goal:**</ins>	Normalization Reduce redundancy and dependency.	  
 Denormalization Improve query performance.  
 <ins>**Process:**</ins>	Normalization Organize data into smaller, related tables.	  
