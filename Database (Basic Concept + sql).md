@@ -11,8 +11,8 @@ DBMS stands for Database Management System. It is software that enables users to
 Relational database: A relational database is the most common type of database. It organizes data into tables, each consisting of rows and columns. Primary and foreign keys define the relationships between tables.
 
 ### Explain the difference between a DBMS and a RDBMS.
-Answer: A DBMS (Database Management System) manages data in a general way, while an RDBMS (Relational Database Management System) specifically manages data using a relational model, involving tables with rows and columns, and enforcing relationships between tables.   
-**DBMS Supports data storage in various formats.  RDBMS Organizes data in a tabular format with rows and columns.**   
+Answer: A DBMS (Database Management System) manages data in a general way, while an RDBMS (Relational Database Management System) specifically manages data using a relational model, involving tables with rows and columns, and enforcing relationships between tables.    
+**DBMS Supports data storage in various formats.  RDBMS Organizes data in a tabular format with rows and columns.**    
 **DBMS Enforces relationships between tables using primary and foreign keys.   RDBMS May not enforce relationships between tables.**
 
 ### What is denormalization?
