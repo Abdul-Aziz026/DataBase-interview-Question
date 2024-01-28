@@ -40,4 +40,8 @@ Roll-----------Name---------Subject
 ```
 
 
+### Second Normal Form (2NF).
+**Rules:**
+1. It should be in 1st Normal Form.
+2. It should not have any partial dependencies.
 
