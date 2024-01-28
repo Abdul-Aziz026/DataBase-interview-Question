@@ -22,8 +22,8 @@ Normalization Types:
 Example:   
 Roll-----------Name---------Subject   
 ------------------------------------   
-101   -      ABC      -      C, C++   
-102     -    DEF      -       JAVE   
+101------------ABC-----------C, C++   
+102------------DEF -----------JAVE   
 
 this example is wrong because subject Contains multiple values
 Which Violate rulo no-2
@@ -32,9 +32,9 @@ Correct Solution:
 
 Roll-----------Name---------Subject   
 ------------------------------------   
-101   -      ABC      -      C   
-101   -      ABC      -      C++   
-102     -    DEF      -       JAVE   
+101-------------ABC------------C   
+101-------------ABC---------- C++   
+102-------------DEF---------- JAVA   
 
 
 
