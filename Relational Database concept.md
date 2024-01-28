@@ -23,8 +23,8 @@ Example:
 ```cpp
 Roll-----------Name---------Subject   
 ------------------------------------   
-101------------ABC-----------C, C++   
-102------------DEF -----------JAVE
+101      -      ABC   -      C, C++   
+102      -      DEF   -      JAVA
 ```
 
 this example is wrong because subject Contains multiple values
@@ -34,9 +34,9 @@ Correct Solution:
 ```cpp
 Roll-----------Name---------Subject   
 ------------------------------------   
-101-------------ABC------------C   
-101-------------ABC---------- C++   
-102-------------DEF---------- JAVA
+101      -      ABC   -      C   
+101      -      ABC   -      C++   
+102      -      DEF   -      JAVA
 ```
 
 
