@@ -54,3 +54,15 @@ Denormalization Increases data redundancy, maintenance complexity.
 
 ### what is self join?
 A self join in SQL is a specific type of join where a table is joined with itself.
+
+### what is data redundancy?
+Data redundancy occurs when the same piece of data exists in multiple places, whereas data inconsistency is when the same data exists in different formats in multiple tables.
+
+### what is data inconsistency?
+there are more than 2 tables within a database that work with the same data but receive it from different inputs.aikhane 2 ta table a salary ar name ache. to 2 table a akoi name er salary different atakei data inconsistency bole.
+
+### data atomicity?.
+Atomicity is a property of database transactions that ensures that a set of database operations either all occur, or none occur. (aikhane kokhono data ordhek upload hobe ar ordehek hobe na erokom kokhono hobe na. hole sobgulo upload hobe otherwise aktao hobe na)
+
+### what is candidate key?
+The minimal set of attributes that can be uniquely identify a tuple is known as a candidate key. A candidate key is a subset of a super key set where the key which contains no redundant attribute is none other than a Candidate Key.candidate key null hote parbe. jemon akjon student er email candidate key.so email nao thakte pare. aikhane email er jaygae null hobe.
