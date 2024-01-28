@@ -66,3 +66,6 @@ Atomicity is a property of database transactions that ensures that a set of data
 
 ### what is candidate key?
 The minimal set of attributes that can be uniquely identify a tuple is known as a candidate key. A candidate key is a subset of a super key set where the key which contains no redundant attribute is none other than a Candidate Key.candidate key null hote parbe. jemon akjon student er email candidate key.so email nao thakte pare. aikhane email er jaygae null hobe.
+
+### what is super key?
+super key is a single key or a group of multiple keys that can uniqly identify tuples in a table.
