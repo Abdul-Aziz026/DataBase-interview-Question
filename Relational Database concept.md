@@ -19,6 +19,22 @@ Normalization Types:
 3. A colum should contain value must be in same type.(Name colum contains only name, Dob contain only DOB)
 4. order of save data doesn't matter.
 
+Example:   
+Roll-----------Name---------Subject   
+------------------------------------   
+101   -      ABC      -      C, C++   
+102     -    DEF      -       JAVE   
+
+this example is wrong because subject Contains multiple values
+Which Violate rulo no-2
+
+Correct Solution:   
+
+Roll-----------Name---------Subject   
+------------------------------------   
+101   -      ABC      -      C   
+101   -      ABC      -      C++   
+102     -    DEF      -       JAVE   
 
 
 
