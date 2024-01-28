@@ -20,21 +20,24 @@ Normalization Types:
 4. order of save data doesn't matter.
 
 Example:   
+```cpp
 Roll-----------Name---------Subject   
 ------------------------------------   
 101------------ABC-----------C, C++   
-102------------DEF -----------JAVE   
+102------------DEF -----------JAVE
+```
 
 this example is wrong because subject Contains multiple values
 Which Violate rulo no-2
 
 Correct Solution:   
-
+```cpp
 Roll-----------Name---------Subject   
 ------------------------------------   
 101-------------ABC------------C   
 101-------------ABC---------- C++   
-102-------------DEF---------- JAVA   
+102-------------DEF---------- JAVA
+```
 
 
 
