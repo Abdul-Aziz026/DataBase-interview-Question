@@ -62,11 +62,11 @@ Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -   Department
 have partial dependencies issues.
 
 solution:
-Employee Table:                                                 |                      Project Table:
-Employee_ID  -  Employee_Name  -   Department                   |                      Project_ID  -  Project_Name
+Employee Table:                                                  |                      Project Table:
+Employee_ID  -  Employee_Name  -   Department                    |                      Project_ID  -  Project_Name
 ------------------------------------------------                |                      -------------------------------
 1      -        John	    -       HR                            |                      101    -       Project_A
-2      -        Alice	    -       IT                            |                      102     -      Project_B
+2      -        Alice	    -       IT                           |                       102     -      Project_B
 3      -        Bob	    -       HR                              |                    103     -      Project_C
 4      -        Mary	    -       Finance                       |                      
 ```
