@@ -43,5 +43,13 @@ Roll-----------Name---------Subject
 ### Second Normal Form (2NF).
 **Rules:**
 1. It should be in 1st Normal Form.
-2. It should not have any partial dependencies.
+2. It should not have any partial dependencies.all its non-prime attributes are fully functionally dependent on the primary key.
+
+**To achieve 2NF, you need to do the following:**
+
+- Identify the primary key of the table.
+- Identify any attributes that are functionally dependent on only part of the primary key.
+- Separate these attributes into their own tables, along with the part of the primary key they are dependent on.
+
+### 
 
