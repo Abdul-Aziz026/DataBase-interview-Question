@@ -86,6 +86,7 @@ score_id - student_id - subject_id - marks - exam_name - total_marks
 
 SOLUTION: 
 
+Result Table                                                                                             Exam Table
 score_id - student_id - subject_id - marks - exam_name                                                   exam_name - total_marks
 ------------------------------------------------------                                                  --------------------------
 1     -    18CSE0__      -  CSE101     - 35  -   mid-term                                                mid-term        -   40
