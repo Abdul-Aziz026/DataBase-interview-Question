@@ -53,10 +53,20 @@ Roll-----------Name---------Subject
 **Example: **
 ```cpp
 Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -   Department
------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 1      -        John	    -       101	    -      Project_A    -   	HR
 2      -        Alice	    -       102	    -      Project_B    -   	IT
 3      -        Bob	    -       101     -      Project_A    -     	HR
 4      -        Mary	    -       103	    -      Project_C    -   	Finance
 
+have partial dependencies issues.
+
+solution:
+Employee Table:                                                                       Project Table:
+Employee_ID  -  Employee_Name  -   Department                                         Project_ID  -  Project_Name
+------------------------------------------------                                      -------------------------------
+1      -        John	    -       HR                                                  101    -        Project_A
+2      -        Alice	    -       IT                                                  102	    -      Project_B
+3      -        Bob	    -       HR                                                    103	    -      Project_C
+4      -        Mary	    -       Finance                                             
 ```
