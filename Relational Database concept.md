@@ -55,7 +55,7 @@ Roll-----------Name---------Subject
 Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -  Department
 1      -        John	    -       101	    -      Project_A    -   	HR
 2      -        Alice	    -       102	    -      Project_B    -   	IT
-3      -        Bob	    -       101      -      Project_A    -   	HR
+3      -        Bob	    -       101     -      Project_A    -     	HR
 4      -        Mary	    -       103	    -      Project_C    -   	Finance
 
 ```
