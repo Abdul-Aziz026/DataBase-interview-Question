@@ -70,3 +70,8 @@ Employee_ID  -  Employee_Name  -   Department                    |              
 3      -        Bob	    -       HR                           |                       103     -      Project_C
 4      -        Mary	    -       Finance                      |                      
 ```
+### 
+### Third Normal Form (2NF).
+**Rules:**
+1. It should be in 2nd Normal Form.
+2. It should not have any transitive dependencies.
