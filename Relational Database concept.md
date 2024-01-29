@@ -52,7 +52,8 @@ Roll-----------Name---------Subject
 - Separate these attributes into their own tables, along with the part of the primary key they are dependent on.
 **Example: **
 ```cpp
-Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -  Department
+Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -   Department
+-----------------------------------------------------------------------------
 1      -        John	    -       101	    -      Project_A    -   	HR
 2      -        Alice	    -       102	    -      Project_B    -   	IT
 3      -        Bob	    -       101     -      Project_A    -     	HR
