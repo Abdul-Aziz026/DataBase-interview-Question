@@ -74,4 +74,12 @@ Employee_ID  -  Employee_Name  -   Department                    |              
 ### Third Normal Form (2NF).
 **Rules:**
 1. It should be in 2nd Normal Form.
-2. It should not have any transitive dependencies.
+2. It should not have any transitive dependencies. Non-Primary key depends on Non-Primary Key.
+```cpp
+# student_id & subject_id are primary key...
+score_id - student_id - subject_id - marks - exam_name - total_marks
+---------------------------------------------------------------------
+1      -     101      -  CSE101     - 35  -   mid-term   -   40
+2      -     101      -  CSE101     - 45  -   mid-term   -   60
+4      -     103      -  CSE104     - 45  -   mid-term   -   60
+```
