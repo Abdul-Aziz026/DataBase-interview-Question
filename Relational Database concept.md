@@ -50,6 +50,12 @@ Roll-----------Name---------Subject
 - Identify the primary key of the table.
 - Identify any attributes that are functionally dependent on only part of the primary key.
 - Separate these attributes into their own tables, along with the part of the primary key they are dependent on.
+**Example: **
+```cpp
+Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -  Department
+1      -        John	    -       101	    -      Project_A    -   	HR
+2      -        Alice	    -       102	    -      Project_B    -   	IT
+3      -        Bob	      -       101	    -      Project_A    -   	HR
+4      -        Mary	    -       103	    -      Project_C    -   	Finance
 
-### 
-
+```
