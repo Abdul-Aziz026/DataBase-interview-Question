@@ -67,6 +67,6 @@ Employee_ID  -  Employee_Name  -   Department                    |              
 ------------------------------------------------                 |                      -------------------------------
 1      -        John	    -       HR                           |                       101    -       Project_A
 2      -        Alice	    -       IT                           |                       102     -      Project_B
-3      -        Bob	    -       HR                            |                      103     -      Project_C
-4      -        Mary	    -       Finance                       |                      
+3      -        Bob	    -       HR                           |                       103     -      Project_C
+4      -        Mary	    -       Finance                      |                      
 ```
