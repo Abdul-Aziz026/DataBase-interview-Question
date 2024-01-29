@@ -61,7 +61,7 @@ Employee_ID  -  Employee_Name  -  Project_ID  -  Project_Name  -   Department
 
 have partial dependencies issues.
 
-solution:
+#SOLUTION---------->>>>
 Employee Table:                                                  |                      Project Table:
 Employee_ID  -  Employee_Name  -   Department                    |                      Project_ID  -  Project_Name
 ------------------------------------------------                 |                      -------------------------------
